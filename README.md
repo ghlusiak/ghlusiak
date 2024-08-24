@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning WordPress and React<br>🎯 Goals: Be a junior developer by 2025<br>🎲 Fun fact: futsal goalkeeper</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning React<br>🎯 Goals: Be a junior developer by 2025<br>🎲 Fun fact: futsal goalkeeper</p>
 
 ###
 
