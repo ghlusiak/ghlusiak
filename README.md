@@ -6,7 +6,11 @@
 
 ### 
 
-<h2 align="left">About me</h2> ### <p align="left">
+<h2 align="left">About me</h2>
+
+### 
+
+<p align="left">
 ✨ Creating bugs since 2023<br>
 📚 I'm currently learning React<br>
 🎯 Goals: Be a junior developer by 2025<br>
